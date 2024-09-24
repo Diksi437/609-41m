@@ -3,10 +3,10 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Hello Blade</title>
+    <title>609-41m</title>
 </head>
 <body>
 <h1>Hello, {{ $name }}!</h1>
-<p>Welcome to our application.</p>
+<p></p>
 </body>
 </html>
